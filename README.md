@@ -1,4 +1,4 @@
-# A java client ultimate tic-tac-toe client
+# A java client for ultimate tic-tac-toe game
 
 ## A simple java front end client for players that uses web sockets to communicate with server.
 
